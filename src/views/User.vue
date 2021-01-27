@@ -1,7 +1,5 @@
 <template>
   <div class="profile">
-    <h1>This is a User page</h1>
-
     <UserProfile />
   </div>
 </template>
